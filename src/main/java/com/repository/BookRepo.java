@@ -11,7 +11,7 @@ import java.util.List;
 @Repository
 public interface BookRepo extends JpaRepository<Book,Integer> {
 
-    @Query("select b from Book b where b.bookName = ?1 and b.bookAuthor = ?2 and b.bookLanguage = ?3 and b.bookThumbnailImage = ?4 and b.bookPrice = ?5")
+    @Query("select b from Book b where b.bookName = ?1 or b.bookAuthor = ?2 or b.bookLanguage = ?3 or b.bookThumbnailImage = ?4 or b.bookPrice = ?5")
     List<Book> getAllBooks(String name,String author,String language,String thumbnailImage,Integer price);
 
     @Query(value = "select * from book order by ?1", nativeQuery = true)
