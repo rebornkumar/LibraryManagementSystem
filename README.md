@@ -12,3 +12,6 @@ Book Item Content:
 5. Thumbnail Image
 6. Language
 Create the Backend System for the Library management system.
+
+
+Note : No need to implement a database for storing books (can be done in-memory).
