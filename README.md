@@ -1,5 +1,5 @@
 # LibraryManagementSystem
-Spring boot application with JPA
+Spring boot application.
 
 Create a library management system in which Admin can add and remove books available in
 Library. A user can able to get a list of all the books available in the library, sort them based on
