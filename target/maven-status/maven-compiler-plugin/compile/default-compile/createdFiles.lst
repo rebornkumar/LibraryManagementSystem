@@ -1,8 +1,10 @@
+com/controller/AdminController.class
+com/controller/UserController.class
 com/repository/BookRepo.class
 com/serviceImpl/UserImpl.class
 com/LibraryManagementApplication.class
-com/controller/ApplicationController.class
 com/service/User.class
 com/serviceImpl/AdminImpl.class
 com/entity/Book.class
 com/service/Admin.class
+com/security/BasicConfiguration.class

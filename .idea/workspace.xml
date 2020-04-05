@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a493146-2bfe-4514-b905-3ef8ff0be452" name="Default Changelist" comment="" />
+    <list default="true" id="2a493146-2bfe-4514-b905-3ef8ff0be452" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/security/BasicConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/LibraryManagementApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/LibraryManagementApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/controller/ApplicationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryManagementApplication-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryManagementApplication-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/LibraryManagementApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/LibraryManagementApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/ApplicationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/repository/BookRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/repository/BookRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +33,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -30,9 +52,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.security" />
+      <recent name="com" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="LibraryManagementApplication [clean...]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
@@ -81,6 +111,10 @@
       <screen x="0" y="34" width="1366" height="734" />
     </state>
     <state x="278" y="62" width="800" height="684" key="#Project_Structure/0.34.1366.734@0.34.1366.734" timestamp="1584789267330" />
+    <state x="416" y="159" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586106945303">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="416" y="159" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.34.1366.734@0.34.1366.734" timestamp="1586106945303" />
     <state x="141" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584796701815">
       <screen x="0" y="34" width="1366" height="734" />
     </state>
@@ -89,33 +123,53 @@
       <screen x="0" y="34" width="1366" height="734" />
     </state>
     <state x="491" y="113" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.34.1366.734@0.34.1366.734" timestamp="1584799982917" />
+    <state x="436" y="288" width="494" height="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586116814695">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="436" y="288" width="494" height="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.34.1366.734@0.34.1366.734" timestamp="1586116814695" />
     <state x="216" y="59" width="924" height="691" key="DBNavigator.ProjectSettingsDialog" timestamp="1584813654850">
       <screen x="0" y="34" width="1366" height="734" />
     </state>
     <state x="216" y="59" width="924" height="691" key="DBNavigator.ProjectSettingsDialog/0.34.1366.734@0.34.1366.734" timestamp="1584813654850" />
-    <state width="1366" height="170" key="GridCell.Tab.0.bottom" timestamp="1584813668488">
+    <state x="466" y="117" width="424" height="574" key="FileChooserDialogImpl" timestamp="1586086163637">
       <screen x="0" y="34" width="1366" height="734" />
     </state>
-    <state width="1366" height="170" key="GridCell.Tab.0.bottom/0.34.1366.734@0.34.1366.734" timestamp="1584813668488" />
-    <state width="1366" height="170" key="GridCell.Tab.0.center" timestamp="1584813668487">
+    <state x="466" y="117" width="424" height="574" key="FileChooserDialogImpl/0.34.1366.734@0.34.1366.734" timestamp="1586086163637" />
+    <state width="1320" height="79" key="GridCell.Tab.0.bottom" timestamp="1586109035600">
       <screen x="0" y="34" width="1366" height="734" />
     </state>
-    <state width="1366" height="170" key="GridCell.Tab.0.center/0.34.1366.734@0.34.1366.734" timestamp="1584813668487" />
-    <state width="1366" height="170" key="GridCell.Tab.0.left" timestamp="1584813668487">
+    <state width="1320" height="79" key="GridCell.Tab.0.bottom/0.34.1366.734@0.34.1366.734" timestamp="1586109035600" />
+    <state width="1320" height="79" key="GridCell.Tab.0.center" timestamp="1586109035600">
       <screen x="0" y="34" width="1366" height="734" />
     </state>
-    <state width="1366" height="170" key="GridCell.Tab.0.left/0.34.1366.734@0.34.1366.734" timestamp="1584813668487" />
-    <state width="1366" height="170" key="GridCell.Tab.0.right" timestamp="1584813668487">
+    <state width="1320" height="79" key="GridCell.Tab.0.center/0.34.1366.734@0.34.1366.734" timestamp="1586109035600" />
+    <state width="1320" height="79" key="GridCell.Tab.0.left" timestamp="1586109035599">
       <screen x="0" y="34" width="1366" height="734" />
     </state>
-    <state width="1366" height="170" key="GridCell.Tab.0.right/0.34.1366.734@0.34.1366.734" timestamp="1584813668487" />
-    <state x="216" y="59" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1584789712773">
+    <state width="1320" height="79" key="GridCell.Tab.0.left/0.34.1366.734@0.34.1366.734" timestamp="1586109035599" />
+    <state width="1320" height="79" key="GridCell.Tab.0.right" timestamp="1586109035600">
       <screen x="0" y="34" width="1366" height="734" />
     </state>
-    <state x="216" y="59" width="924" height="691" key="Maven.ArtifactSearchDialog/0.34.1366.734@0.34.1366.734" timestamp="1584789712773" />
+    <state width="1320" height="79" key="GridCell.Tab.0.right/0.34.1366.734@0.34.1366.734" timestamp="1586109035600" />
+    <state x="216" y="59" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1586037575452">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="216" y="59" width="924" height="691" key="Maven.ArtifactSearchDialog/0.34.1366.734@0.34.1366.734" timestamp="1586037575452" />
+    <state x="412" y="131" width="540" height="524" key="StructurePopup" timestamp="1586023131680">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="412" y="131" width="540" height="524" key="StructurePopup/0.34.1366.734@0.34.1366.734" timestamp="1586023131680" />
     <state x="339" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1584799322390">
       <screen x="0" y="34" width="1366" height="734" />
     </state>
     <state x="339" y="228" key="com.intellij.ide.util.TipDialog/0.34.1366.734@0.34.1366.734" timestamp="1584799322390" />
+    <state x="10" y="93" width="1356" height="599" key="new project wizard" timestamp="1586086357386">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="10" y="93" width="1356" height="599" key="new project wizard/0.34.1366.734@0.34.1366.734" timestamp="1586086357386" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586110118802">
+      <screen x="0" y="34" width="1366" height="734" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.34.1366.734@0.34.1366.734" timestamp="1586110118802" />
   </component>
 </project>
